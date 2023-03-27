@@ -1,0 +1,38 @@
+body{
+    background-color: rgb(47, 151, 151);
+}
+h1{
+ color: aliceblue;
+ text-align: center;
+ font-weight: bolder;
+ font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#animal-list{
+    color: aliceblue;
+    list-style: disc;
+    line-height: 30px;
+}
+
+
+#animal-details img{
+    width: 300px;
+    height: 340px;
+}
+#animal-details li{
+    display: flex;
+}
+
+#vote-button{
+    background-color: green;
+    width: 120px;
+    border-radius: 8px;
+}
+#reset-button{
+    background-color: rgb(10, 11, 20);
+    width: 120px;
+    border-radius: 8px;
+}
+button{
+    color: aliceblue;
+}
